@@ -10,6 +10,18 @@ This project was created based on a solution shared by [Jonas The Swedish Goth](
 
 ## 🚀 How to Run
 
+### Cloning the Repository
+
+To get started, first clone this repository to your local machine:
+```bash
+git clone https://github.com/Neeraj-Sihag/Unmanage-Windows-Organisation.git
+```
+
+Then, navigate into the repository folder:
+```bash
+cd Unmanage-Windows-Organisation
+```
+
 ### Prerequisites
 
 - **Admin Privileges**: Make sure you are running the script with administrator privileges.
@@ -77,3 +89,7 @@ This script targets the following registry paths:
 ## 📜 License
 
 This project is open-source under the [MIT License](LICENSE).
+
+---
+
+Feel free to use, modify, or contribute to this project!
